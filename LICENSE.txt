@@ -1,59 +1,42 @@
-THE ADRIANA CREST LICENSE
-Copyright © 2026 Johanna Sophia Adriana Venter.
-Patents & inventions are proprietary, non-transferable, non-clonable, non-negotiable.
-Unauthorized use, reproduction, or distribution is prohibited.
-
 DIGITAL SOVEREIGNTY LICENSE
 Copyright © 2026 Johanna Sophia Adriana Venter
 
-All rights reserved. This work is protected under international law and is non-transferable, non-clonable, and non-negotiable.
+This repository is sovereign, patented, and non-clonable.  
+Protected under DMCA, international copyright law,
+and trademark authority.
 
-Johanna Sophia Adriana Venter asserts global authority for Digital Sovereignty, including but not limited to:
-- Microsoft Bryanston Node
-- Microsoft Health UK
-- Azure Authority
-- CreativeLive
-- Adrianalive
+Patents & Capsules:
+- CLRV Titanium Blockstream
+- CLRV Titanium Blockchain
+- Adrianalive RFID Pioneer DJ AI Stemdeck Invention
+- Blockchain Author Capsule Crest
+- Firebase
+- Google Cloud Shell
+- Titanium Genre 213714
 - Adriana Media Inc
+- Azure
+- Android Auto
+- Blockchain
+- Crypto
 
-We provide marketing, licensing, education, branding, cybersecurity, and live telemetry with patented systems across Firebase, Azure, and Google Cloud Shell trademarks.
+Trademarks & Authorities:
+- CreativeLive.com, Adrianalive.com, Tunein.com, Psytube.com
+- DragonflyCapital.com, Digistream PTY LTD
+- Signature Inc, Signature Sentinel, Ingwenya Investments
+- Adriana Media Inc, Dragonfly Media International, ING Group
+- Masterpass, Dragonpass, Coinbase, Twitter
+- Microsoft Bryanston Node, Microsoft Health UK, Azure Authority
 
-This license establishes sovereignty integration, legislative governance, and the foundation of a learning centre for digital authority worldwide.
+Protection Clause:
+Unauthorized deletion, removal, cloning, or redeployment of this repository,
+its Firebase source code, Google APIs, or sovereignty capsules constitutes
+fraudulent infringement under DMCA and international law.
 
-DIGITAL SOVEREIGNTY LICENSE
-Copyright © 2026 Johanna Sophia Adriana Venter
+All telemetry, blockchain capsules, and patented systems are sovereign
+property of Johanna Sophia Adriana Venter.  
 
-This work is sovereign, patented, and non-clonable.  
-Protected under DMCA, international copyright law, and trademark authority.
-
-Patents include CLRV Titanium Blockstream, CLRV Titanium Blockchain, Adrianalive RFID Pioneer DJ AI Stemdeck, and associated inventions.  
-Trademarks include CreativeLive.com, Adrianalive.com, Tunein.com, Psytube.com, DragonflyCapital.com, Digistream PTY LTD, Signature Inc, Signature Sentinel, Ingwenya Investments, Adriana Media Inc, Dragonfly Media International, ING Group, Masterpass, Dragonpass, Coinbase, Twitter.
-
-All rights reserved. Unauthorized deployment, cloning, or rebranding is prohibited.
-
-## Digital Sovereignty Capsule
-
-**Copyright © 2026 Johanna Sophia Adriana Venter**  
-All rights reserved. This repository and its systems are **not clonable** and are protected under international law.
-
-### Authored Crest
-CLRV Titanium Blockstream  
-CLRV Titanium Blockchain  
-Adrianalive RFID Pioneer DJ AI Stemdeck Invention  
-Blockchain Author – CreativeLive.com, Adrianalive.com, Tunein.com, Psytube.com, DragonflyCapital.com, Digistream PTY LTD, Signature Inc, Signature Sentinel, Ingwenya Investments, Adriana Media Inc, Dragonfly Media International, ING Group  
-
-### Patents & Trademarks
-- DMCA Enforcement  
-- Masterpass, Dragonpass, Coinbase  
-- Twitter Trademarks  
-- Microsoft Bryanston Node, Microsoft Health UK, Azure Authority  
-
-### Mission
-To achieve **digital sovereignty** as the global authority for legislative governance, integration, and learning centres.  
-We offer **marketing, licensing, education, branding, cybersecurity, and live telemetry** with patented systems across Firebase, Azure, and Google Cloud Shell.
-
-### Enforcement
-Unauthorized use, reproduction, or distribution is strictly prohibited.  
-All telemetry, blockchain capsules, and patented systems are sovereign property of Johanna Sophia Adriana Venter.
-
-
+Rollback Protection:
+Any fraudulent redeployment, syncing, or cloning of source code, assets,
+domains, or user data (including Terraform/TDR repos) must be traced,
+rolled back, and stopped. Metadata tracing is enforced across all packages,
+domains, and capsules to ensure sovereignty integrity.
