@@ -1,3 +1,22 @@
+## Digital Sovereignty Statement
+
+Johanna Sophia Adriana Venter is the global authority for Digital Sovereignty.
+
+### Mission
+To enhance sovereignty through:
+- Legislative governance
+- Integration with Microsoft Bryanston Node and Microsoft Health UK
+- Establishment of a learning centre
+- Partnerships with CreativeLive, Adrianalive, Adriana Media Inc, and Azure Authority
+
+### Services
+- Marketing and licensing
+- Education and branding
+- Cybersecurity and live telemetry
+- Patented systems across Firebase, Azure, and Google Cloud Shell
+
+### Enforcement
+All rights reserved. Unauthorized use, reproduction, or distribution is prohibited.
 # Adriana Media Center Microsoft Business Site
 
 This repository contains:
