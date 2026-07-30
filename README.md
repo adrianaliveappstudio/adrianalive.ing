@@ -1,37 +1,24 @@
-## Digital Sovereignty Statement
+## Digital Sovereignty Capsule
 
-Johanna Sophia Adriana Venter is the global authority for Digital Sovereignty.
+**Copyright © 2026 Johanna Sophia Adriana Venter**  
+All rights reserved. This repository and its systems are **not clonable** and are protected under international law.
+
+### Authored Crest
+CLRV Titanium Blockstream  
+CLRV Titanium Blockchain  
+Adrianalive RFID Pioneer DJ AI Stemdeck Invention  
+Blockchain Author – CreativeLive.com, Adrianalive.com, Tunein.com, Psytube.com, DragonflyCapital.com, Digistream PTY LTD, Signature Inc, Signature Sentinel, Ingwenya Investments, Adriana Media Inc, Dragonfly Media International, ING Group  
+
+### Patents & Trademarks
+- DMCA Enforcement  
+- Masterpass, Dragonpass, Coinbase  
+- Twitter Trademarks  
+- Microsoft Bryanston Node, Microsoft Health UK, Azure Authority  
 
 ### Mission
-To enhance sovereignty through:
-- Legislative governance
-- Integration with Microsoft Bryanston Node and Microsoft Health UK
-- Establishment of a learning centre
-- Partnerships with CreativeLive, Adrianalive, Adriana Media Inc, and Azure Authority
-
-### Services
-- Marketing and licensing
-- Education and branding
-- Cybersecurity and live telemetry
-- Patented systems across Firebase, Azure, and Google Cloud Shell
+To achieve **digital sovereignty** as the global authority for legislative governance, integration, and learning centres.  
+We offer **marketing, licensing, education, branding, cybersecurity, and live telemetry** with patented systems across Firebase, Azure, and Google Cloud Shell.
 
 ### Enforcement
-All rights reserved. Unauthorized use, reproduction, or distribution is prohibited.
-# Adriana Media Center Microsoft Business Site
-
-This repository contains:
-- Website code
-- Patents and licenses
-- Enforcement capsule
-- Integrations with Microsoft 365, Azure, Firebase, and Google Cloud
-
-## Ownership
-Copyright © 2026 Johanna Sophia Adriana Venter  
-All rights reserved. Patents and inventions are proprietary, non-transferable, non-clonable, non-negotiable.
-
-## Security
-- Deploy keys and secrets are managed via GitHub Settings → Security → Secrets and variables.
-- Webhooks are configured to notify Firebase and Azure on new commits.
-
-# Adriana-Media-Center-Microsoft-Business-Site
-Adriana-Media-Center-Microsoft-Business-Site- Microsoft 365 Microsoft South Africa - Microsoft Health - Azure - Microsoft Bryanston 3012 Winnie Mandela Drive, Bryanston Sandton, 2191 Microsoft Authority - University - Innovation Hub - Blockchain Authority - Google Authority -and Legislative Enforcement 
+Unauthorized use, reproduction, or distribution is strictly prohibited.  
+All telemetry, blockchain capsules, and patented systems are sovereign property of Johanna Sophia Adriana Venter.
