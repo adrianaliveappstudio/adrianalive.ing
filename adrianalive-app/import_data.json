@@ -1,0 +1,44 @@
+{
+  "security": {
+    "admin_password": {
+      "password": "Adrianalive2026!Secure",
+      "created": "2023-08-04",
+      "createdBy": "adriana.monetory@gmail.com",
+      "status": "ACTIVE"
+    },
+    "access_control": {
+      "status": "LOCKED_DOWN",
+      "authorizedUsers": [
+        "adriana.monetory@gmail.com",
+        "clrv.riana.entity@gmail.com",
+        "rixifacebook@gmail.com",
+        "turbulliongroup@gmail.com"
+      ],
+      "allOthers": "BLOCKED",
+      "date": "2023-08-04"
+    }
+  },
+  "blocked": {
+    "oauth238915": {
+      "status": "BLOCKED",
+      "date": "2023-08-04",
+      "reason": "FRAUD_DETECTED"
+    },
+    "users": {
+      "propex4@gmail.com": "BLOCKED",
+      "rianav28@gmail.com": "BLOCKED",
+      "adrianasamusic@gmail.com": "BLOCKED",
+      "rianav@live.com": "BLOCKED"
+    }
+  },
+  "ownership": {
+    "owner": {
+      "name": "Johanna Sophia Adriana Venter",
+      "email": "adriana.monetory@gmail.com",
+      "id": "7606170018086",
+      "date": "2023-08-04",
+      "status": "ENFORCED"
+    },
+    "patent": "CLRV TITANIUM BLOCKCHAIN BLOCKSTREAM OVERRIDE PROTOCOL"
+  }
+}

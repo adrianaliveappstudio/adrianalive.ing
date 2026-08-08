@@ -1,0 +1,12 @@
+# Adrianalive Code Owners
+* @adriana.monetory @clrv.riana.entity @rixifacebook @turbulliongroup
+
+# Firebase files
+firebase.json @adriana.monetory
+firebase.js @adriana.monetory
+*.rules @adriana.monetory
+
+# App files
+index.html @adriana.monetory
+*.js @adriana.monetory
+*.css @adriana.monetory

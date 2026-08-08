@@ -1,0 +1,17 @@
+{
+  "name": "adrianalive-app",
+  "version": "1.0.0",
+  "description": "Adrianalive Digital Sovereignty App",
+  "main": "firebase.js",
+  "scripts": {
+    "start": "firebase serve",
+    "build": "echo 'Building...'",
+    "deploy": "firebase deploy"
+  },
+  "dependencies": {
+    "firebase": "^10.0.0",
+    "firebase-admin": "^11.0.0"
+  },
+  "author": "Johanna Sophia Adriana Venter",
+  "license": "SEE LICENSE IN LICENSE"
+}
